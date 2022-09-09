@@ -116,10 +116,7 @@
           },
           "configurations": {
             "production": {
-              "devServerTarget": "TaskManageMent:serve:production"
-            },
-            "development": {
-              "browserTarget": "TaskManageMent:build:development"
+              "devServerTarget": "toolsets:serve:production"
             }
           }
         }
